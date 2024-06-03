@@ -1,0 +1,86 @@
+# Flutter/Dart/Pub related files
+**/doc/api/
+
+# Directories created by the Pub tool
+.dart_tool/
+.packages
+
+# Flutter specific directories
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+ios/Pods
+.podspec
+.pub-cache/
+.pub/
+build/
+flutter_*.symlinks/
+
+# Obsolete dependency lock files
+pubspec.lock
+
+# Windows
+windows/flutter/ephemeral/
+
+# macOS
+macos/Flutter/ephemeral/
+
+# Linux
+linux/flutter/ephemeral/
+
+# Android
+android/.cxx/
+android/app/debug/
+android/app/profile/
+android/app/release/
+
+# Web related
+web/compile_cache/
+web/flutter_build/
+
+# VS Code files
+.vscode/
+.idea/
+*.iml
+
+# Miscellaneous
+*.log
+*.tmp
+*.DS_Store
+*.swp
+*.lock
+*.lock.json
+
+# IntelliJ
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+*.pyd
+
+# CMake build files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+CMakeScripts/
+CTestTestfile.cmake
+Makefile
+cmake-build-debug/
+cmake-build-release/
+cmake-build-*
+
+# Coverage files
+coverage/
+
+# Built files
+build/
+
+# Environment folder
+env/
